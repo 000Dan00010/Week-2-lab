@@ -1,4 +1,6 @@
 //Week-2-lab
+![2023-01-23](https://user-images.githubusercontent.com/122418286/214145383-4d6d8b41-0dcd-40fb-8b79-ef5e536d89d7.png)
+
 
 
 Walker[] walk;
@@ -66,4 +68,5 @@ class Walker {
     x = x+int( random(-speed, speed) );
     y = y+int( random(-speed, speed) );
   }
-}
+}![Uploading 2023-01-23.png…]()
+
